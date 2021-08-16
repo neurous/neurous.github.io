@@ -7,3 +7,5 @@
 - neurous
 - twitter在住
 - python (人工知能, AtCoder)
+
+![埋め込み画像](538b7560-private.png)
